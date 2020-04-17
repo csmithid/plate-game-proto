@@ -5,7 +5,7 @@ A game pototype about doing math with license plates.
 ## Setup
 
 ```
-
+yarn install
 yarn link
 plate-game
 ```
