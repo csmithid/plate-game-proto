@@ -33,7 +33,7 @@
   "dependencies": {
     "@types/lodash": "^4.14.149",
     "gluegun": "latest",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "string-math": "^1.2.1"
   },
   "devDependencies": {
